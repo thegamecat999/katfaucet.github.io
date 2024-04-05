@@ -10,8 +10,8 @@ CORS(app)
 COOLDOWN_DURATION = (15 * 60)  # 15 * 1 minute = 15 minutes
 MESSAGE = "<Your memo here>"
 AMOUNT = 10 #you can change this to whatever you want
-PASSWORD = "<The host account's password>" 
-HOST_USERNAME = "<Username that will be sending the duco>"
+PASSWORD = "<cheese>" 
+HOST_USERNAME = "<katfaucet>"
 
 # Dictionary to store the last request timestamp for each user ID
 user_cooldowns = {}
